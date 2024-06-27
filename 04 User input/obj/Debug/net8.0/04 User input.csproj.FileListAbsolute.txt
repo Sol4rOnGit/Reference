@@ -1,0 +1,14 @@
+D:\Documents\Unity\C# Reference\04 User input\bin\Debug\net8.0\04 User input.exe
+D:\Documents\Unity\C# Reference\04 User input\bin\Debug\net8.0\04 User input.deps.json
+D:\Documents\Unity\C# Reference\04 User input\bin\Debug\net8.0\04 User input.runtimeconfig.json
+D:\Documents\Unity\C# Reference\04 User input\bin\Debug\net8.0\04 User input.dll
+D:\Documents\Unity\C# Reference\04 User input\bin\Debug\net8.0\04 User input.pdb
+D:\Documents\Unity\C# Reference\04 User input\obj\Debug\net8.0\04 User input.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Unity\C# Reference\04 User input\obj\Debug\net8.0\04 User input.AssemblyInfoInputs.cache
+D:\Documents\Unity\C# Reference\04 User input\obj\Debug\net8.0\04 User input.AssemblyInfo.cs
+D:\Documents\Unity\C# Reference\04 User input\obj\Debug\net8.0\04 User input.csproj.CoreCompileInputs.cache
+D:\Documents\Unity\C# Reference\04 User input\obj\Debug\net8.0\04 User input.dll
+D:\Documents\Unity\C# Reference\04 User input\obj\Debug\net8.0\refint\04 User input.dll
+D:\Documents\Unity\C# Reference\04 User input\obj\Debug\net8.0\04 User input.pdb
+D:\Documents\Unity\C# Reference\04 User input\obj\Debug\net8.0\04 User input.genruntimeconfig.cache
+D:\Documents\Unity\C# Reference\04 User input\obj\Debug\net8.0\ref\04 User input.dll

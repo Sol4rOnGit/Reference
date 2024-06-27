@@ -1,0 +1,14 @@
+D:\Documents\Unity\C# Reference\Printing and beeping\Printing and beeping\bin\Debug\net8.0\Printing and beeping.exe
+D:\Documents\Unity\C# Reference\Printing and beeping\Printing and beeping\bin\Debug\net8.0\Printing and beeping.deps.json
+D:\Documents\Unity\C# Reference\Printing and beeping\Printing and beeping\bin\Debug\net8.0\Printing and beeping.runtimeconfig.json
+D:\Documents\Unity\C# Reference\Printing and beeping\Printing and beeping\bin\Debug\net8.0\Printing and beeping.dll
+D:\Documents\Unity\C# Reference\Printing and beeping\Printing and beeping\bin\Debug\net8.0\Printing and beeping.pdb
+D:\Documents\Unity\C# Reference\Printing and beeping\Printing and beeping\obj\Debug\net8.0\Printing and beeping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Unity\C# Reference\Printing and beeping\Printing and beeping\obj\Debug\net8.0\Printing and beeping.AssemblyInfoInputs.cache
+D:\Documents\Unity\C# Reference\Printing and beeping\Printing and beeping\obj\Debug\net8.0\Printing and beeping.AssemblyInfo.cs
+D:\Documents\Unity\C# Reference\Printing and beeping\Printing and beeping\obj\Debug\net8.0\Printing and beeping.csproj.CoreCompileInputs.cache
+D:\Documents\Unity\C# Reference\Printing and beeping\Printing and beeping\obj\Debug\net8.0\Printing and beeping.dll
+D:\Documents\Unity\C# Reference\Printing and beeping\Printing and beeping\obj\Debug\net8.0\refint\Printing and beeping.dll
+D:\Documents\Unity\C# Reference\Printing and beeping\Printing and beeping\obj\Debug\net8.0\Printing and beeping.pdb
+D:\Documents\Unity\C# Reference\Printing and beeping\Printing and beeping\obj\Debug\net8.0\Printing and beeping.genruntimeconfig.cache
+D:\Documents\Unity\C# Reference\Printing and beeping\Printing and beeping\obj\Debug\net8.0\ref\Printing and beeping.dll
