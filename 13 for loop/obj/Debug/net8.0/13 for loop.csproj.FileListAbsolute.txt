@@ -1,0 +1,15 @@
+D:\Documents\Unity\Reference\13 for loop\bin\Debug\net8.0\13 for loop.exe
+D:\Documents\Unity\Reference\13 for loop\bin\Debug\net8.0\13 for loop.deps.json
+D:\Documents\Unity\Reference\13 for loop\bin\Debug\net8.0\13 for loop.runtimeconfig.json
+D:\Documents\Unity\Reference\13 for loop\bin\Debug\net8.0\13 for loop.dll
+D:\Documents\Unity\Reference\13 for loop\bin\Debug\net8.0\13 for loop.pdb
+D:\Documents\Unity\Reference\13 for loop\obj\Debug\net8.0\13 for loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Unity\Reference\13 for loop\obj\Debug\net8.0\13 for loop.AssemblyInfoInputs.cache
+D:\Documents\Unity\Reference\13 for loop\obj\Debug\net8.0\13 for loop.AssemblyInfo.cs
+D:\Documents\Unity\Reference\13 for loop\obj\Debug\net8.0\13 for loop.csproj.CoreCompileInputs.cache
+D:\Documents\Unity\Reference\13 for loop\obj\Debug\net8.0\13 for loop.sourcelink.json
+D:\Documents\Unity\Reference\13 for loop\obj\Debug\net8.0\13 for loop.dll
+D:\Documents\Unity\Reference\13 for loop\obj\Debug\net8.0\refint\13 for loop.dll
+D:\Documents\Unity\Reference\13 for loop\obj\Debug\net8.0\13 for loop.pdb
+D:\Documents\Unity\Reference\13 for loop\obj\Debug\net8.0\13 for loop.genruntimeconfig.cache
+D:\Documents\Unity\Reference\13 for loop\obj\Debug\net8.0\ref\13 for loop.dll

@@ -1,0 +1,15 @@
+D:\Documents\Unity\Reference\12 while loops\obj\Debug\net8.0\12 while loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Unity\Reference\12 while loops\obj\Debug\net8.0\12 while loops.AssemblyInfoInputs.cache
+D:\Documents\Unity\Reference\12 while loops\obj\Debug\net8.0\12 while loops.AssemblyInfo.cs
+D:\Documents\Unity\Reference\12 while loops\obj\Debug\net8.0\12 while loops.csproj.CoreCompileInputs.cache
+D:\Documents\Unity\Reference\12 while loops\obj\Debug\net8.0\12 while loops.sourcelink.json
+D:\Documents\Unity\Reference\12 while loops\bin\Debug\net8.0\12 while loops.exe
+D:\Documents\Unity\Reference\12 while loops\bin\Debug\net8.0\12 while loops.deps.json
+D:\Documents\Unity\Reference\12 while loops\bin\Debug\net8.0\12 while loops.runtimeconfig.json
+D:\Documents\Unity\Reference\12 while loops\bin\Debug\net8.0\12 while loops.dll
+D:\Documents\Unity\Reference\12 while loops\bin\Debug\net8.0\12 while loops.pdb
+D:\Documents\Unity\Reference\12 while loops\obj\Debug\net8.0\12 while loops.dll
+D:\Documents\Unity\Reference\12 while loops\obj\Debug\net8.0\refint\12 while loops.dll
+D:\Documents\Unity\Reference\12 while loops\obj\Debug\net8.0\12 while loops.pdb
+D:\Documents\Unity\Reference\12 while loops\obj\Debug\net8.0\12 while loops.genruntimeconfig.cache
+D:\Documents\Unity\Reference\12 while loops\obj\Debug\net8.0\ref\12 while loops.dll

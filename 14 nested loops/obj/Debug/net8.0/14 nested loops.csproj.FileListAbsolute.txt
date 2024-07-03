@@ -1,0 +1,15 @@
+D:\Documents\Unity\Reference\14 nested loops\bin\Debug\net8.0\14 nested loops.exe
+D:\Documents\Unity\Reference\14 nested loops\bin\Debug\net8.0\14 nested loops.deps.json
+D:\Documents\Unity\Reference\14 nested loops\bin\Debug\net8.0\14 nested loops.runtimeconfig.json
+D:\Documents\Unity\Reference\14 nested loops\bin\Debug\net8.0\14 nested loops.dll
+D:\Documents\Unity\Reference\14 nested loops\bin\Debug\net8.0\14 nested loops.pdb
+D:\Documents\Unity\Reference\14 nested loops\obj\Debug\net8.0\14 nested loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Unity\Reference\14 nested loops\obj\Debug\net8.0\14 nested loops.AssemblyInfoInputs.cache
+D:\Documents\Unity\Reference\14 nested loops\obj\Debug\net8.0\14 nested loops.AssemblyInfo.cs
+D:\Documents\Unity\Reference\14 nested loops\obj\Debug\net8.0\14 nested loops.csproj.CoreCompileInputs.cache
+D:\Documents\Unity\Reference\14 nested loops\obj\Debug\net8.0\14 nested loops.sourcelink.json
+D:\Documents\Unity\Reference\14 nested loops\obj\Debug\net8.0\14 nested loops.dll
+D:\Documents\Unity\Reference\14 nested loops\obj\Debug\net8.0\refint\14 nested loops.dll
+D:\Documents\Unity\Reference\14 nested loops\obj\Debug\net8.0\14 nested loops.pdb
+D:\Documents\Unity\Reference\14 nested loops\obj\Debug\net8.0\14 nested loops.genruntimeconfig.cache
+D:\Documents\Unity\Reference\14 nested loops\obj\Debug\net8.0\ref\14 nested loops.dll
