@@ -1,0 +1,15 @@
+D:\Documents\Unity\Reference\24 multidimensional arrays\obj\Debug\net8.0\24 multidimensional arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Unity\Reference\24 multidimensional arrays\obj\Debug\net8.0\24 multidimensional arrays.AssemblyInfoInputs.cache
+D:\Documents\Unity\Reference\24 multidimensional arrays\obj\Debug\net8.0\24 multidimensional arrays.AssemblyInfo.cs
+D:\Documents\Unity\Reference\24 multidimensional arrays\obj\Debug\net8.0\24 multidimensional arrays.csproj.CoreCompileInputs.cache
+D:\Documents\Unity\Reference\24 multidimensional arrays\obj\Debug\net8.0\24 multidimensional arrays.sourcelink.json
+D:\Documents\Unity\Reference\24 multidimensional arrays\bin\Debug\net8.0\24 multidimensional arrays.exe
+D:\Documents\Unity\Reference\24 multidimensional arrays\bin\Debug\net8.0\24 multidimensional arrays.deps.json
+D:\Documents\Unity\Reference\24 multidimensional arrays\bin\Debug\net8.0\24 multidimensional arrays.runtimeconfig.json
+D:\Documents\Unity\Reference\24 multidimensional arrays\bin\Debug\net8.0\24 multidimensional arrays.dll
+D:\Documents\Unity\Reference\24 multidimensional arrays\bin\Debug\net8.0\24 multidimensional arrays.pdb
+D:\Documents\Unity\Reference\24 multidimensional arrays\obj\Debug\net8.0\24 multidimensional arrays.dll
+D:\Documents\Unity\Reference\24 multidimensional arrays\obj\Debug\net8.0\refint\24 multidimensional arrays.dll
+D:\Documents\Unity\Reference\24 multidimensional arrays\obj\Debug\net8.0\24 multidimensional arrays.pdb
+D:\Documents\Unity\Reference\24 multidimensional arrays\obj\Debug\net8.0\24 multidimensional arrays.genruntimeconfig.cache
+D:\Documents\Unity\Reference\24 multidimensional arrays\obj\Debug\net8.0\ref\24 multidimensional arrays.dll

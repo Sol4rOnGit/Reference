@@ -1,0 +1,15 @@
+D:\Documents\Unity\Reference\18 return keyword\obj\Debug\net8.0\18 return keyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Unity\Reference\18 return keyword\obj\Debug\net8.0\18 return keyword.AssemblyInfoInputs.cache
+D:\Documents\Unity\Reference\18 return keyword\obj\Debug\net8.0\18 return keyword.AssemblyInfo.cs
+D:\Documents\Unity\Reference\18 return keyword\obj\Debug\net8.0\18 return keyword.csproj.CoreCompileInputs.cache
+D:\Documents\Unity\Reference\18 return keyword\obj\Debug\net8.0\18 return keyword.sourcelink.json
+D:\Documents\Unity\Reference\18 return keyword\bin\Debug\net8.0\18 return keyword.exe
+D:\Documents\Unity\Reference\18 return keyword\bin\Debug\net8.0\18 return keyword.deps.json
+D:\Documents\Unity\Reference\18 return keyword\bin\Debug\net8.0\18 return keyword.runtimeconfig.json
+D:\Documents\Unity\Reference\18 return keyword\bin\Debug\net8.0\18 return keyword.dll
+D:\Documents\Unity\Reference\18 return keyword\bin\Debug\net8.0\18 return keyword.pdb
+D:\Documents\Unity\Reference\18 return keyword\obj\Debug\net8.0\18 return keyword.dll
+D:\Documents\Unity\Reference\18 return keyword\obj\Debug\net8.0\refint\18 return keyword.dll
+D:\Documents\Unity\Reference\18 return keyword\obj\Debug\net8.0\18 return keyword.pdb
+D:\Documents\Unity\Reference\18 return keyword\obj\Debug\net8.0\18 return keyword.genruntimeconfig.cache
+D:\Documents\Unity\Reference\18 return keyword\obj\Debug\net8.0\ref\18 return keyword.dll
