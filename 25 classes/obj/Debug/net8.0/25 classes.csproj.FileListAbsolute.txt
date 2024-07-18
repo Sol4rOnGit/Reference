@@ -1,0 +1,15 @@
+D:\Documents\Unity\Reference\25 classes\bin\Debug\net8.0\25 classes.exe
+D:\Documents\Unity\Reference\25 classes\bin\Debug\net8.0\25 classes.deps.json
+D:\Documents\Unity\Reference\25 classes\bin\Debug\net8.0\25 classes.runtimeconfig.json
+D:\Documents\Unity\Reference\25 classes\bin\Debug\net8.0\25 classes.dll
+D:\Documents\Unity\Reference\25 classes\bin\Debug\net8.0\25 classes.pdb
+D:\Documents\Unity\Reference\25 classes\obj\Debug\net8.0\25 classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Unity\Reference\25 classes\obj\Debug\net8.0\25 classes.AssemblyInfoInputs.cache
+D:\Documents\Unity\Reference\25 classes\obj\Debug\net8.0\25 classes.AssemblyInfo.cs
+D:\Documents\Unity\Reference\25 classes\obj\Debug\net8.0\25 classes.csproj.CoreCompileInputs.cache
+D:\Documents\Unity\Reference\25 classes\obj\Debug\net8.0\25 classes.sourcelink.json
+D:\Documents\Unity\Reference\25 classes\obj\Debug\net8.0\25 classes.dll
+D:\Documents\Unity\Reference\25 classes\obj\Debug\net8.0\refint\25 classes.dll
+D:\Documents\Unity\Reference\25 classes\obj\Debug\net8.0\25 classes.pdb
+D:\Documents\Unity\Reference\25 classes\obj\Debug\net8.0\25 classes.genruntimeconfig.cache
+D:\Documents\Unity\Reference\25 classes\obj\Debug\net8.0\ref\25 classes.dll
